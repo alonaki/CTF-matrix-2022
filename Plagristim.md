@@ -14,21 +14,36 @@ The name of the challange suggest that it somthing with Books, so we googled the
 After googling all of the numbers We get this Book list:
 
 M is fot magic = M
+
 The C Programming Language, 2nd Edition = C
+
 Embedding Perl in HTML = L
+
 {
 Break the Code: Cryptography for Beginners
+
 Automate the Boring Stuff with Python: Practical
+
 ADA Lovelace: Computer Programmer and Mathematician 
+
 The Works of Charles Babbage Vol 1 Hardcover
+
 Data Structures and Network Algorithms (CBMS-NSF
+
 Mathematical Logic
+
 The Essential Turing: Seminal Writings in Computing, Logic
+
 John Von Neumann: The Scientific Genius Who Pioneered
+
 The design of Rijndael : the Advanced Encryption Standard
+
 The Mathematical Theory of Communication Paperback
+
 Weaving the Web: The Original Design and Ultimate
+
 }
 
 We also can see the number in the Second line that sould be an index from the book name, and finally we get:
+
 MCL{Bookworming}  
